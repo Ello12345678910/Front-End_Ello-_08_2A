@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página</title>
+</head>
+
+<body>
+
+    <main>
+        <table>
+            <tr>
+                <td>Nome</td>
+                <td> Elloá </td>
+            </tr>
+            <tr>
+                <td>Idade</td>
+                <td> 15 anos </td>Meu nome é Elloá,tenho 15 anos sou uma estudante do 2ano do CCM Vereador Luiz Zanchim em Sarandi PR
+            </tr>
+            <tr>
+                <td>Profissão</td>
+                <td> Estudante </td>
+            </tr>
+            <tr>
+                <td>Hobby</td>
+                <td> Tocar piano e ler </td>
+            </tr>
+            <tr>
+                <td>Resumo</td>
+                <td> Meu nome é Elloá,tenho 15 anos sou uma estudante do 2ano do CCM Vereador Luiz Zanchim em Sarandi PR</td>
+            </tr>
+        
+            <tr>
+                <img src="Piano.png" alt="Foto" width="500" height="400">
+            </tr>
+
+            </tr>
+        </table>
+    </main>
+</body>
+
+</html>
+
+
+            </tr>
+        </table>
+    </main>
+</body>
+
+</html>
